@@ -6,7 +6,3 @@ test3_ljovan_vihaus.egg-info/dependency_links.txt
 test3_ljovan_vihaus.egg-info/entry_points.txt
 test3_ljovan_vihaus.egg-info/requires.txt
 test3_ljovan_vihaus.egg-info/top_level.txt
-test3_ljovan_vihaus_pkg/__init__.py
-test3_ljovan_vihaus_pkg/cli.py
-test3_ljovan_vihaus_pkg/test_tweet_preprocessor.py
-test3_ljovan_vihaus_pkg/tweet_preprocessor.py
