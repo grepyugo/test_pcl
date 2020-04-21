@@ -25,7 +25,7 @@ setuptools.setup(
     python_requires='>=3.6',
     entry_points={
         'console_scripts': [
-            'tpp = test3_ljovan_vihaus_pkg.cli.py:main'
+            'tpp = cli.py:main'
         ]
     },
 )    
