@@ -25,7 +25,7 @@ setuptools.setup(
     python_requires='>=3.6',
     entry_points={
         'console_scripts': [
-            'tpp = cli.py:main'
+            'tpp = cli.__init__.py:main'
         ]
     },
 )    

@@ -1,8 +1,0 @@
-README.md
-setup.py
-test3_ljovan_vihaus.egg-info/PKG-INFO
-test3_ljovan_vihaus.egg-info/SOURCES.txt
-test3_ljovan_vihaus.egg-info/dependency_links.txt
-test3_ljovan_vihaus.egg-info/entry_points.txt
-test3_ljovan_vihaus.egg-info/requires.txt
-test3_ljovan_vihaus.egg-info/top_level.txt
